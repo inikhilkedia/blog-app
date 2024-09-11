@@ -38,7 +38,6 @@ This repository contains a full-stack blog application, consisting of a React fr
 │       ├── index.css       # Main CSS file
 │       ├── reportWebVitals.js
 │       └── setupTests.js   # Testing configuration
-└── folder-structure.txt    # Folder structure description
 ```
 
 ## Features
